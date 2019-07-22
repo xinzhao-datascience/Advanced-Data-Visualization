@@ -12,7 +12,7 @@ The programming language of this project was Python in Jupyter environment with 
 
 **Visualizations:**
 
-* Histogram graphs were used to show the frequency of a category such as how crimes occurred in different time periods-
+* Histogram graphs were used to show the frequency of a category such as how crimes occurred in different time periods
 * Line graphs were used to plot data through 2014 to 2017, such as number of crimes through 2014 to 2017 
 * Bar graphs were used to compare different categories such as types of crimes 
 *Stacked bar graphs were used to compare the overall quantities also illustrate the contribution of each category to the totals such as distribution of all crime types in each neighbourhood 
